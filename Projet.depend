@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1605333052 source:e:\大三秋季\算法\projet\com.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<queue>
+	<bitset>
+	<map>
+	<math.h>
+	"com.h"
+
+1604457418 e:\大三秋季\算法\projet\com.h
+	<string>
+	<map>
+	<deque>
+	<bitset>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<stdio.h>
+	<iostream>
+
+1604231556 source:e:\大三秋季\算法\projet\main.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<queue>
+	<bitset>
+	<map>
+	<math.h>
+	"com.h"
+
